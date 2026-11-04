@@ -1,1 +1,1 @@
-console.log("Hello from my sample app v1");
+console.log("Hello from my sample app v2 - updated!");
